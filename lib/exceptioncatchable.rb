@@ -49,7 +49,8 @@ module ExceptionCatchable
       if kinds.any?{|k|ec.kind_of? k}
         ec
       else
-        raise MismatchExceptionError, "#{ec} is not kind of any target #{kinds}"
+        raise MismatchExceptionError,
+          "#{ec} is not kind of any target #{kinds}"
       end
     else
       raise 'can not catch exceptions'
