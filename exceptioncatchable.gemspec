@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.summary       = gem.description.dup
   gem.name          = 'exceptioncatchable'
   gem.license       = 'MIT'
-  gem.version       = '0.0.1'
+  gem.version       = '0.0.2'
 
   gem.required_ruby_version = '>= 1.9.3'
   gem.add_development_dependency 'test-unit', '>= 2.5.5', '< 2.6'
