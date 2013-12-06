@@ -1,3 +1,4 @@
+# coding: us-ascii
 # exceptioncatchable - Provide block-scope for to catch exceptions easy.
 # Copyright (c) 2012 Kenichi Kamiya
 
