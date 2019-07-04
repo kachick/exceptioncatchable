@@ -9,7 +9,6 @@ Gem::Specification.new do |gem|
   gem.license       = 'MIT'
   gem.version       = '0.0.2'
 
-  gem.required_ruby_version = '>= 1.9.3'
   gem.add_development_dependency 'test-unit', '>= 2.5.5', '< 2.6'
   gem.add_development_dependency 'yard', '>= 0.8.7.3', '< 0.9'
   gem.add_development_dependency 'rake', '>= 10', '< 20'

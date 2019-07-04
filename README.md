@@ -32,7 +32,7 @@ And see test-case
 Requirements
 -------------
 
-* [Ruby 1.9.3 or later](http://travis-ci.org/#!/kachick/exceptioncatchable)
+* [Ruby 2.5 or later](http://travis-ci.org/#!/kachick/exceptioncatchable)
 
 Install
 -------
