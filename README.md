@@ -1,8 +1,9 @@
 exceptioncatchable
 ===================
 
-[![Build Status](https://secure.travis-ci.org/kachick/exceptioncatchable.png)](http://travis-ci.org/kachick/exceptioncatchable)
-[![Gem Version](https://badge.fury.io/rb/exceptioncatchable.png)](http://badge.fury.io/rb/exceptioncatchable)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org/ for releasing valuable namespace for others***
 
 Description
 -----------
@@ -32,24 +33,7 @@ And see test-case
 Requirements
 -------------
 
-* [Ruby 2.5 or later](http://travis-ci.org/#!/kachick/exceptioncatchable)
-
-Install
--------
-
-```bash
-$ gem install exceptioncatchable
-```
-
-Link
-----
-
-* [Home](http://kachick.github.com/exceptioncatchable)
-* [code](https://github.com/kachick/exceptioncatchable)
-* [API](http://kachick.github.com/exceptioncatchable/yard/frames.html)
-* [issues](https://github.com/kachick/exceptioncatchable/issues)
-* [CI](http://travis-ci.org/#!/kachick/exceptioncatchable)
-* [gem](https://rubygems.org/gems/exceptioncatchable)
+* Ruby 2.5 or later
 
 License
 --------
